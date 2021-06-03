@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Arrian's vindication of himself against Dr. Wallis's fourth letter on the Trinity</title>
+            <author>Freke, William, 1662-1744.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23230</idno><idno type="EEBO-CITATION">12870327</idno>
+  <idno type="VID">199322</idno>
+  <idno type="EEBO-PROQUEST">2240860952</idno>
+  
+            <idno type="STC">Wing F2162</idno>
+            <idno type="OCLC">12870327</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 380:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Arrian's vindication of himself against Dr. Wallis's fourth letter on the Trinity</title>
+                  <author>Freke, William, 1662-1744.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to William Freke. Cf. McLachlan, H. The story of a nonconformist library, 1923, p. 64.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, NewYork.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wallis, John, 1616-1703. --  Fourth letter concerning the sacred Trinity.</term>
+               <term type="topical_term">Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199322:1"/>
+            <head>The <hi>Arrian</hi>'s <hi>VINDICATION</hi> of Himself, against Dr. <hi>Wallis</hi>'s Fourth Letter on the TRINITY.</head>
+            <p>'TIS an intollerable thing for a Man to pretend to Can<g ref="char:EOLhyphen"/>dour and Ingenuity, and that he argues calmly, and without scurrilous Language, as Dr. <hi>Wallis</hi> has done, (<hi>p.</hi> 36.) when his whole Treatise is nothing else but the Composure of a Sinister Art to stifle and confound those Truths he is not able to withstand: I say 'tis intollerable in the <hi>Doctor,</hi> because nothing in His whole fourth Letter has the least grain of weight in it, if one abates its little Subtilties and Artifice.</p>
+            <p>And I declare farther, that it grieves me to Answer him as he deserves, for fear of having the Character of a Common Railer, for when Deceits are gross, a Man cannot well expose them, as he should do, without he does it in suitable Terms; and if he does that, the Story alone is enough to offend a modest Ear, and therefore I say I am forc'd to make my Reader an A<g ref="char:EOLhyphen"/>pology in this place, that he will excuse me in expressing what I am necessitated to write.</p>
+            <p>To begin therefore, What a mean and unfair Vein of Refle<g ref="char:EOLhyphen"/>ction runs thro' his whole Book, I may say indeed is the whole matter on't: It seems a <hi>Socinian</hi> wrote against him, and I as an <hi>Arrian</hi> wrote against him; and the <hi>Doctor</hi> upon this fancies the <hi>Socinian</hi> turn'd <hi>Arrian,</hi> and then all along in his Discourse, set<g ref="char:EOLhyphen"/>ting up the two Opinions together for his Mark, shuffles them together, ridicules the Medly, and in the end ingenuously closes all with what a Turn-Coat of an Adversary he has met with.</p>
+            <p>I shall not repeat his words about it, because they are too ma<g ref="char:EOLhyphen"/>ny, and fitter to be read in his Book itself, where, if the Reader will please to cast an eye, he will find his two last Paragrahs, his Close, <hi>p.</hi> 37, 38. incomparably witty upon it.</p>
+            <p>But, I say, is not this a most ingenuous, a most fair and cha<g ref="char:EOLhyphen"/>ritable Method? and does it not become Dr. <hi>Wallis?</hi> Dr. <hi>Sher<g ref="char:EOLhyphen"/>lock</hi> had twenty Answers against him near about his <hi>Case of Alle<g ref="char:EOLhyphen"/>giance,</hi> &amp;c. amongst the rest Mr. <hi>Parkinson</hi>'s was one; I say, had it not been very pleasant for Dr. <hi>Sherlock</hi> to have rak'd up all the Absurdities and Contradictions in these twenty Answers, and to have flung them upon Mr. <hi>Parkinson;</hi> I say, would it not have been pleasant for the <hi>Doctor</hi> to have charg'd him for being a Turn-Coat, and to write Contradiction, because such things might possibly be found among the twenty Answers.</p>
+            <pb n="2" facs="tcp:199322:2"/>
+            <p>Now, I say, if this would be pleasant, I might add ridiculous, in Dr. <hi>S.</hi> what is it in Dr. <hi>Wallis?</hi> I declare I am neither the <hi>Socinian,</hi> nor his Friend that assisted in his first Book; nay, I declare I never was a <hi>Socinian</hi> in my life, no more then the <hi>Do<g ref="char:EOLhyphen"/>ctor;</hi> and why then all this upon me?</p>
+            <p>Yes, the <hi>Doctor</hi> says, I do not say that I am not the <hi>Socini<g ref="char:EOLhyphen"/>an,</hi> p. 1. very pleasant. I write my Book quite on another Hypothesis, I give it a Title as if it were to stand by its self, as a new Answer, and not to Vindicate the <hi>Socinian;</hi> nay, I plain<g ref="char:EOLhyphen"/>ly in it leave the <hi>Socinian</hi> in what peculiarly belongs to him, to Vindicate himself; and yet the <hi>Doctor</hi> for all this, for the Jests sake, must still fancy I am the <hi>Socinian</hi> in Masquerade. Good God! what will not some Men write, rather than not shew their Wit.</p>
+            <p>Nor is it less pleasant, to see what a world of mouldring Ar<g ref="char:EOLhyphen"/>guments he has raised totteringly, on this rotten Foundation for<g ref="char:EOLhyphen"/>sooth, I am not willing to enquire into his <hi>Socinian</hi> Quotations: I say I am not concern'd if any Man has dropt imprudent words, <hi>p.</hi> 2, 3. and the <hi>Doctor</hi> takes this for a Point granted: surely the <hi>Doctor</hi> has purchas'd an Estate in <hi>Utopia</hi> lately, and that 'tis makes him so strong in his Imaginations, else how should he expect I should defend what he quotes from <hi>Socinus,</hi> more then what he writes himself.</p>
+            <p>An <hi>Arrian</hi> is as much a <hi>Trinitarian</hi> as a <hi>Socinian,</hi> and there<g ref="char:EOLhyphen"/>fore I think I may justly refuse the <hi>Doctor</hi> that satisfaction, and yet not, I say, that the <hi>Doctor</hi> has the Point given him on <hi>Soci<g ref="char:EOLhyphen"/>nus</hi> neither, but 'tis not my business to defend him; and if that will not give the <hi>Doctor</hi> satisfaction, he must go look for it, for I declare I shall not trouble myself to see what <hi>Socinus</hi> has wrote upon the Matter, whether <hi>pro</hi> or <hi>con.</hi>
+            </p>
+            <p>Just such another Point, <hi>p.</hi> 6. he triumphs in, That I do not vindicate <hi>Socinus</hi> from his denying the Immortality of the Soul, <hi>p.</hi> 4. Alass poor <hi>Doctor!</hi> I never subscrib'd Articles to <hi>Socinus</hi> yet, and shall no more enquire what he says, then the <hi>Molinists</hi> do; but whatever the <hi>Doctor</hi> triumphs in this matter, may be his old <hi>Socinian</hi> Adversary may at last take up the Cudgels against him, and shew him he does not deal so fairly with <hi>Socinus</hi> as he should neither: But whether he does or no, the <hi>Doctor</hi> shant gain that Point upon me, as to perswade me it concerns me.</p>
+            <p>But the <hi>Doctor</hi> says I mistake, and talk of his denying Angels, when he said only the Immortality of the Soul: Alass the Charge upon me I thought so trifling, that may be I might do so, but it seems the <hi>Doctor</hi> thinks it considerable; and <hi>p.</hi> 5. brings a world
+<pb n="3" facs="tcp:199322:2"/> of Arguments to prove the Immortality of the Soul. It seems I said, I thought the Reflection uncharitable, but did not say I did be<g ref="char:EOLhyphen"/>lieve them; and therefore the <hi>Doctor</hi> takes it for granted, he is to Convert me.</p>
+            <p>I thank him; and to ease him for the future, I tell him, I did believe them, as he himself wittily Reflects, <hi>p.</hi> 37. I will not dis<g ref="char:EOLhyphen"/>oblige him by unsaying what was always in my heart to acknow<g ref="char:EOLhyphen"/>ledge; however, that I might not be behind with him in Kind<g ref="char:EOLhyphen"/>ness, and because the <hi>Doctor</hi> seems hard of Faith, I have a good mind to prove the Existence of a Deity to him, for I have heard of some Men of Profession of the Church of <hi>England,</hi> that have almost been Atheist at the heart.</p>
+            <p>Well, but I must hasten on, the <hi>Doctor</hi> has caught another Point, I have granted him a thing may be one, and three in several respects, <hi>p.</hi> 8. and it seems I have yeilded the Point, for 'twas Rea<g ref="char:EOLhyphen"/>son only he stood upon, and I am fled to Scripture; and surely now the <hi>Doctor</hi> has reason to triumph as he does, <hi>p.</hi> 9. for his Argument was, Whether a Trinity be possible, not whether it is or not; nay, if the <hi>Doctor</hi> has not hamper'd me now, 'tis hard.</p>
+            <p>The Matter then is thus: The <hi>Doctor</hi> and I are upon square Reasoning, well, and I in my other Answer, <hi>p.</hi> 3. say, <hi>'Tis true indeed I cannot say that there is a Contradiction in holding that there may be three Persons in God, because I have not the Definition of the word God so exact as to be assur'd it cannot admit many Persons in it; but this I am sure, that when God has order'd me to acknowledge him but as One, and I know I cannot rationally make him more, but by many Persons, I vitiate the Commandment by an inconsistent Absurdity to bring in new Persons after in Coequality with him.</hi>
+            </p>
+            <p>I say then, how can the <hi>Doctor</hi> charge me by this, to fly to Scri<g ref="char:EOLhyphen"/>pture Authority? Alass he gallops over the intent and insinuation of my Argument, and then well may he say any thing; but to pre<g ref="char:EOLhyphen"/>vent further Mistakes it is this; the <hi>Doctor</hi> and I have joyn'd issue in, Whether there be a Contradiction in the Trinity or not; at pre<g ref="char:EOLhyphen"/>sent then it being my Task to prove there is, I enter upon the Matter with my self thus:</p>
+            <p>I say then to myself, there are two sorts of Contradictions, the one express'd, the other implied, the first, or express'd, is thus, <hi>A Man is not a Man;</hi> but this is what I cannot bring to our present Case, because it is a Contradiction in Terms; therefore let us come to the other, the Contradiction implied, and let us see how that will fit us.</p>
+            <p>I say then, a Contradiction implied is when tho' the Terms are
+<pb n="4" facs="tcp:199322:3"/> not the same, yet as to the matter in dispute they purport the same thing, thus, that S. <hi>Peter,</hi> S. <hi>Paul,</hi> and S. <hi>John</hi> are one Man, for if I have either Idea of Men or Numbers, they must be three, and if they are three, the Proposition implies a Contradiction.</p>
+            <p>Nor will it be enough to say in such case, that they are one in some respect or so, for by a Metaphor also you may evade the force of the most flat and express Contradiction whatever also; for instance, should I say, A Man is not a Man; that is, Mankind is degenera<g ref="char:EOLhyphen"/>ted from what it was; I say it is as proper a way of speaking, as to say, <hi>Peter, James,</hi> and <hi>John</hi> are one, because Christians, and a<g ref="char:EOLhyphen"/>greeing in Principles.</p>
+            <p>I say then, having stated this Idea of Contradictions with myself, which is true, if any be so: I proceeded to apply it to the Case in hand; well then, because I would be the more ingenious with the <hi>Doctor,</hi> I tell him I cannot say (that is directly and from myself) there is a Contradiction in holding there may be three Persons in one God, because I have not the Definition of the word God so exact, <hi>&amp;c.</hi> Well, but what then, must the Dispute end here, this does but grant I am without an express Definition of the word God, to raise an implied Contradiction, and for an express Con<g ref="char:EOLhyphen"/>tradiction, I do not pretend to it.</p>
+            <p>No, I say the Dispute shall not end here, for tho' I will not be presumptious to define the word God myself, without Scripture, nor will not let go my Reasoning to fly to their Authority; yet I will make the <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctor</hi> give me that priviledge, as to fetch in the <hi>first Commandment</hi> to define the word God, without the <hi>Doctor</hi> is so in<g ref="char:EOLhyphen"/>genuous as to keep the Argument upon our yea or no of it, for fear of a Decision.</p>
+            <p>Well then, 'tis plain the <hi>Doctor</hi> has gained no Point here neither, but is flying the Field with as many Huzza's he can; his Adversa<g ref="char:EOLhyphen"/>ry is not charging him, whether the thing is, but whether 'tis pos<g ref="char:EOLhyphen"/>sible, and he meanly cries, that he flies to Scripture, only because he goes about to shew the <hi>Doctor</hi> how he has distorted the sence of the word God, which is the Hinge of the Dispute, and only to be decided by the Scriptures.</p>
+            <p>The next thing I have to speak to is, he says <hi>p.</hi> 10, I make large Concessions about the Holy Ghost, and about the Personality: A<g ref="char:EOLhyphen"/>lass poor <hi>Doctor!</hi> just as much as becomes an <hi>Arrian,</hi> had the <hi>Doctor</hi> but known it; and when he reads it next, and considers it better, he will say so too.</p>
+            <p>But <hi>p.</hi> 12. brings me to a most grievous Charge against me, he charges me heavily with Misciting, but alas when I come to see
+<pb n="5" facs="tcp:199322:3"/> what's the matter, 'tis just trifling to the purpose. It seems I have call'd the three dimensions of his Cube three sides, and as a Faulk<g ref="char:EOLhyphen"/>ner is angry, if you say his Hawk shites and not mutes; so the <hi>Doctor</hi> can't bear the least mis-wording to his Notions.</p>
+            <p>Another thing is, I charge him with talking of two Gods, three Gods, personal Gods. 'Tis true enough, poor Gentleman, I do so by inference, as I do that his Doctrine is contradictions, and when he proves the matter otherwise he shall not be abused so.</p>
+            <p>Thus likewise there are a world of other charges, but heavy only in imagination, that the <hi>Doctor</hi> lays upon me. He says, the <hi>Arri<g ref="char:EOLhyphen"/>rians</hi> make two Gods, <hi>p.</hi> 13. he forgets that he might have had twenty from them, and that the Scripture it self makes Satan a God, but if he means two Gods coequal, which he must do to make his reflection considerable, he writes without Book.</p>
+            <p>So he says I banter him, <hi>p.</hi> 15. when I write of blushing for his Similes; whether I banter'd him or not, I am sure he has reason to blush still for his Similies: whatever he says upon the matter, they wont help him up one Rung upon the Ladder nor one Step to<g ref="char:EOLhyphen"/>wards his Journey: in short, all they can prove is, that a thing may be one and three in several respects, which no one but a mad Man as I know would ever deny him.</p>
+            <p>He tells me, he has a hard Task two please two Masters, <hi>p.</hi> 15. Right; but who set him to meddle with the <hi>Socinians</hi> now? in truth his n'own dear self: He tells me I reflect on God and the Scriptures, to talk of a three-headed Monster, <hi>p.</hi> 15. Methinks he might have staid this till he had prov'd God to be a Trinity, and his Notions of him to be agreeable to Scriptures; but no, a few Colours are the substance of Dr. <hi>W.</hi>'s Rhetorick.</p>
+            <p>
+               <hi>P.</hi> 18. The <hi>Doctor</hi> says his Doctrine is as old as the <hi>New Testa<g ref="char:EOLhyphen"/>ment,</hi> and that it was never contested till <hi>Arrius</hi> did it. I answer, My Doctrine both is and was the truth till <hi>Alexander</hi> and <hi>Athana<g ref="char:EOLhyphen"/>sius</hi> disputed it, and whose word must pass in this case, surely tho' I have no mean sence of either the truth or tradition of my own opinion, yet I think neither, I believe we are both fallen upon ni<g ref="char:EOLhyphen"/>ceties that the Primitive Christians know nothing of; you, I say, in vindicating an unjust Imposition, and I setting up a more ra<g ref="char:EOLhyphen"/>tional Hypothesis to confute it.</p>
+            <p>
+               <hi>P.</hi> 19. He is angry, that I should make his personating not to make several persons, when in another place, I say personation is the greatest perfection of Unity; now this I say might be a reason<g ref="char:EOLhyphen"/>able objection enough, did Personation only signifie the abstract of personating, but I conceive the <hi>Doctor</hi> has no reason to be con<g ref="char:EOLhyphen"/>cern'd
+<pb n="6" facs="tcp:199322:4"/> if I turn the <hi>Idea</hi> of the word to another sence, to signifie the being a person, and if so, what I have said concerning his per<g ref="char:EOLhyphen"/>sonating in my other Answer, must be valid for all what the <hi>Doctor</hi> has alledg'd.</p>
+            <p>I shall say no more of his other Titles, which he tells me are at least a step in his way, but if I am not mistaken, they are very far from his purpose, and I hope for the future he will not insist on them; I declare if he does, I must say as he does, there is some<g ref="char:EOLhyphen"/>thing wanting more than clearness to convince him, <hi>p.</hi> 36.</p>
+            <p>But now I come to his great point of condescention, to answer me in Scripture, when I have deserted Reason, as he thinks; and here I will join Issue with him, that if he has made it out, that one God personal must not make one God as well as one Man, that is, if the definition of God be not to be one or more by persons, I say if it be not so, I shall be content to be dragg'd in Chains after his Chariot for a Captive, and to honour his Victory by being a Bondslave.</p>
+            <p>
+               <hi>P.</hi> 24. He says Satan and the God of <hi>Echron</hi> are forbidden by the first Commandment, and why not Christ as well as they? No, he has a Dilemma for that, <hi>p.</hi> 28. Either he is a true God, or a false God, if a true God, the same with the Father; nay, he tells us also, we worship the Son: But good God, what an Answer this is when one sees the bottom of it, and how formidable the Horns of his Dilemma are when one searches into them a little.</p>
+            <p>Shall the Scripture make a mean between the supreme God and the false ones, as it does near 20 times, and shall Dr. <hi>Wallis</hi> come and face us out of it? does the Scripture say to Magistrates, <hi>Ye are Gods,</hi> to <hi>Moses, he is a God,</hi> and must these be one with the supreme God, because they are not false Gods? I am sure, whatever I have done before, I may here justly blush for the <hi>Doctor</hi> without banter.</p>
+            <p>But no, he says, <hi>p.</hi> 25. these persons are this one God, not added to him. And, good God, what a quirk that is! Are they, say you; Pray how came they to be so? Did the Commandment speak of them; did the <hi>Jews</hi> ever hear of them before <hi>Christianity?</hi> If not, Must not this be an addition of persons, and a sneaking begging of the Question, to say they are that one God, and not person added to him.</p>
+            <p>So we worship the Son, but how? with an appointed honour, not the supreme worship with mediation, not adoration. If the <hi>Doctor</hi> thinks we owe him other or greater worship, he would do well to prove it, and not say, we allow it, for I declare we don't.</p>
+            <p>So as to my argument, that there cannot be many personal
+<pb n="7" facs="tcp:199322:4"/> Gods, because all between one and Infinites imperfect, <hi>p.</hi> 30. How strangely he shuffles, says he; you your self own two Gods, and why may not I then three? Alas, I say there is but one supreme God, and another Creature God, and but honour'd with the Title; and is that to have two Personal Gods? I dare not, I say, think this to be but a perverse Wrangling, but, I say, does it not look like it?</p>
+            <p>As to what he says of the Text, <hi>Joh.</hi> 17.3. I have giv'n him a sufficient answer already, and it does not consist with my genius to delight in Tautology; and as for his saying, <hi>p.</hi> 29. that Christ is cal<g ref="char:EOLhyphen"/>led <hi>Alpha</hi> and <hi>Omega</hi> in the <hi>Revelations,</hi> he regards not that that stile is as it were in opposition to God's simpler one, <hi>I am,</hi> nay, and that St. <hi>John</hi> interprets it himself expresly to this sence, by the same Book, in calling him <hi>the faithful Amen,</hi> and <hi>the beginning of the Creation of God.</hi>
+            </p>
+            <p>He tells us, <hi>p.</hi> 29. that we break the <hi>first Commandment,</hi> by ha<g ref="char:EOLhyphen"/>ving more Gods, whether equal or unequal, and that if we might have many Under-Gods, the <hi>Heathens</hi> were excusable, who set up <hi>Jupiter</hi> above all. Alas, he forgets that all <hi>Trinitarians</hi> call the Fa<g ref="char:EOLhyphen"/>ther <hi>fons Deitatis,</hi> and the <hi>Heathens</hi> thought <hi>Jupiter</hi> no more. He forgets that the very Scriptures themselves tells us of several that have titularly the name of God given them, and we do not think more of the Son, for we hold but one Supreme.</p>
+            <p>And yet not I say but that I think the Son much above any of the other Titular Gods or Angels whatever, for I am not willing that the <hi>Doctor's</hi> Arguments should draw me to diminish his ho<g ref="char:EOLhyphen"/>nour neither; and therefore let the <hi>Doctor</hi> say but that he is a creature, and a dependant to God the Father, and let him make him as glorious after that as his imagination can conceive him.</p>
+            <p>I must add here, that there are some things in this last <hi>Treatise</hi> of Dr. <hi>Wallis</hi> that I have really reason to thank him for, as that he thinks I have respect for the Scriptures, as that he is not with<g ref="char:EOLhyphen"/>out hopes of my conversi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, I say I am oblig'd to him for this, and I will add this withal too, he that is apt to have good and charitable thoughts of others, cannot be at the bottom an ill man himself, and therefore I hope what he has wrote before is through mistake.</p>
+            <p>And I might add to this also, that I could very well comply with him in the Scripture words, to say of the three Divine Per<g ref="char:EOLhyphen"/>sons, these three are one, I believe the Father, through the Son and by the Holy Ghost, in one method act all things in relation to the good of Mankind, and provided the abstract words of Trini<g ref="char:EOLhyphen"/>ty in Unity, implying a Substantial Union, be taken away, I am <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="8" facs="tcp:199322:5"/>
+            <p>However, I must needs say this withal, that if the <hi>Doctor's</hi> Incli<g ref="char:EOLhyphen"/>nations be so moderate, he needed not to have been so stiff against what I wrote before, for I am sure I did then near say as much as I do now, that tho' I am an <hi>Arrian,</hi> yet I hate <hi>Arrianism</hi> as bad as <hi>Trinitarianism,</hi> I mean to impose it on others, and if I seek for any thing, 'tis wholly a freedom from the imposition of others.</p>
+            <p>And therefore I say, because the <hi>Doctor</hi> has been thus hard with me, he obliges me to withstand him to continue on to shew him his reasoning his absurd and contradictious, nay more, that he hath not taken notice of some of the most material passages in my Book, to wit, my reproof of his false <hi>Idea</hi> of the Personality of God, the Impossibility and Blasphemy of his Incarnation, and of the Death of God, I say these passages and more he hath not re<g ref="char:EOLhyphen"/>garded, and therefore as an Enemy I think I may say he has as good as taken them for granted.</p>
+            <p>To conclude therefore, I think I may justly add, I have made good my point against the <hi>Doctor,</hi> and have shewn his Mystery contradictious, and as I modestly promis'd in the beginning of my first Book, not agreeable to the common notions of humane rea<g ref="char:EOLhyphen"/>soning, and I will add this also, that if I have not abilities to main<g ref="char:EOLhyphen"/>tain this Post against the <hi>Doctor,</hi> at least the clearness of my Cause moves me to say so, I shall be content to be perswaded out of my Name with my Opinion.</p>
+            <p>And therefore if I might advise the <hi>Doctor,</hi> for I do not love to be upon necessity of exposing a Man of value, I say there<g ref="char:EOLhyphen"/>fore if I might advise him, I would have him drop his Cause, and leave it to men of more artifice and less sincerity and plain<g ref="char:EOLhyphen"/>ness to manage; alas the <hi>Doctor</hi> forgets, he should have but hint<g ref="char:EOLhyphen"/>ed at reasoning in the case, and not stood upon it, but fled to the perverse confusion of Quotations and Authority, if he would have done as he should do.</p>
+            <epigraph>
+               <q>It is impossible but that Offences must come, but Woe be to him through whom Offences come, it were better a Milstone, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
